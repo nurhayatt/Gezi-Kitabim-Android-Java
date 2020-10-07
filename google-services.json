@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184612108603",
+    "firebase_url": "https://gezikitabim-c3b9f.firebaseio.com",
+    "project_id": "gezikitabim-c3b9f",
+    "storage_bucket": "gezikitabim-c3b9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184612108603:android:d6c7805dd55cd869a1df1e",
+        "android_client_info": {
+          "package_name": "com.example.gezikitabim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184612108603-oj83v7lb9c1q22a5bnc97tad10uehbql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gezikitabim",
+            "certificate_hash": "a6d59afd98bd88e8a9484805ca479a315856a891"
+          }
+        },
+        {
+          "client_id": "184612108603-31b7qnsmkv8fnc431qe0ng6fqcpuu1rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy-0znXgD5Pj8qQKUgmfVha8XMjlHnWMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184612108603-31b7qnsmkv8fnc431qe0ng6fqcpuu1rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
